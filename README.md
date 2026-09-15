@@ -1,5 +1,5 @@
 # Student Performance Predictor
-
+LIVE : https://student-performance-predictor-abhishek.streamlit.app/
 A Streamlit web application that predicts a student's GPA using academic, attendance, study habit, and behavioral inputs.
 
 ## Features
